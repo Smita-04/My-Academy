@@ -16,14 +16,17 @@ Our mission is to bridge the gap between fashion education and industry demands 
 - **🗓 Upcoming Highlights** – A curated feed of upcoming fashion events, shows, and exhibitions with detailed insights.
 ## 🖼 Website Preview
 ### Home Page
-(<img width="1910" height="843" alt="home" src="https://github.com/user-attachments/assets/28ac4379-d4e1-4ed3-b142-47d3c8200a6b" />
+<img width="1910" height="843" alt="home" src="https://github.com/user-attachments/assets/28ac4379-d4e1-4ed3-b142-47d3c8200a6b" />
 <img width="1920" height="1080" alt="webpage2" src="https://github.com/user-attachments/assets/f17d1b1d-d6bb-4c26-b212-362acd19779f" />
-<img width="1912" height="880" alt="webpage3" src="https://github.com/user-attachments/assets/ad18d0c4-1c23-4211-9f44-920e7035e79c" />)
+<img width="1912" height="880" alt="webpage3" src="https://github.com/user-attachments/assets/ad18d0c4-1c23-4211-9f44-920e7035e79c" />
 ### Trend Forecast
-(<img width="1893" height="803" alt="webpage4" src="https://github.com/user-attachments/assets/41ceee0b-9ecb-4c09-891c-48693b31d622" />)
+<img width="1893" height="803" alt="webpage4" src="https://github.com/user-attachments/assets/41ceee0b-9ecb-4c09-891c-48693b31d622" />
 ### Fashion Chatbot
-(<img width="985" height="766" alt="webpage7" src="https://github.com/user-attachments/assets/dcf3f52a-a917-4e34-8dea-a09418c43987" />
-)
+<img width="985" height="766" alt="webpage7" src="https://github.com/user-attachments/assets/dcf3f52a-a917-4e34-8dea-a09418c43987" />
+### Ramp Walk Tutor
+![WhatsApp Image 2025-05-24 at 06 55 15_9c4ddf8a (1)](https://github.com/user-attachments/assets/442c37e8-fb8d-4458-a969-3158094210b3)
+
+
 
 
 
