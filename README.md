@@ -24,8 +24,9 @@ Our mission is to bridge the gap between fashion education and industry demands 
 ### Fashion Chatbot
 <img width="985" height="766" alt="webpage7" src="https://github.com/user-attachments/assets/dcf3f52a-a917-4e34-8dea-a09418c43987" />
 ### Ramp Walk Tutor
-### Ramp Walk Tutor
-![Ramp Walk Tutor](https://github.com/user-attachments/assets/e6607945-6c5c-4349-a402-52afdf6ac1f3)
+<img width="985" height="766" alt="ramp-walk-tutor" src="https://github.com/user-attachments/assets/e86f6239-b4c4-4564-95b8-f87518795c70" />
+
+
 
 
 
