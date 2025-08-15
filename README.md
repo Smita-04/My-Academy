@@ -32,5 +32,3 @@ Our mission is to bridge the gap between fashion education and industry demands 
 
 
 
-
-
