@@ -14,3 +14,6 @@ Our mission is to bridge the gap between fashion education and industry demands 
 - **🎤 Ramp Walk Tutor** – An interactive module offering real-time posture, pace, and style guidance for professional runway walks.  
 - **💬 Fashion Chatbot** – A specialized AI assistant capable of answering fashion-related queries, offering style suggestions, and guiding learners.  
 - **🗓 Upcoming Highlights** – A curated feed of upcoming fashion events, shows, and exhibitions with detailed insights.
+## 🖼 Website Preview
+### Home Page
+![Home Page](assets/home.png)
