@@ -9,3 +9,8 @@ The **fashion industry** thrives on creativity, precision, and trend awareness.
 - **Industry awareness** through upcoming events and highlights.
 
 Our mission is to bridge the gap between fashion education and industry demands with an accessible, tech-driven platform.
+## ✨ Core Features
+- **📊 Trend Forecast** – AI-powered predictive analysis of upcoming fashion trends based on historical and current data.  
+- **🎤 Ramp Walk Tutor** – An interactive module offering real-time posture, pace, and style guidance for professional runway walks.  
+- **💬 Fashion Chatbot** – A specialized AI assistant capable of answering fashion-related queries, offering style suggestions, and guiding learners.  
+- **🗓 Upcoming Highlights** – A curated feed of upcoming fashion events, shows, and exhibitions with detailed insights.
