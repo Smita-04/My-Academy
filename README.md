@@ -29,6 +29,12 @@ Our mission is to bridge the gap between fashion education and industry demands 
 ## Ramp Walk Tutor 
 <img width="492.5" height="766" alt="webpage7" src="https://github.com/user-attachments/assets/d824cc7a-09a2-47f3-b1aa-3c0ea7498e63" src="https://github.com/user-attachments/assets/fbe4fecc-51e8-4755-8eae-190a0fb169f5"/>
 
+## Ramp Walk Tutor
+
+<p align="center">
+  <img width="45%" alt="ramp1" src="https://github.com/user-attachments/assets/d824cc7a-09a2-47f3-b1aa-3c0ea7498e63" />
+  <img width="45%" alt="ramp2" src="https://github.com/user-attachments/assets/fbe4fecc-51e8-4755-8eae-190a0fb169f5" />
+</p>
 
 
 
